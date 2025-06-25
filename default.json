@@ -9,6 +9,7 @@
     ":dependencyDashboard",
     ":disableRateLimiting",
     ":semanticCommits",
+    "github>faiph-dev/renovate-config:custom-managers.json5",
     "github>faiph-dev/renovate-config:autoMerge.json5",
     "github>faiph-dev/renovate-config:labels.json5",
     "github>faiph-dev/renovate-config:semanticCommits.json5"
